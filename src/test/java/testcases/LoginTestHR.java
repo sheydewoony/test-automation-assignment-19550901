@@ -1,6 +1,5 @@
 package testcases;
 
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
@@ -9,8 +8,6 @@ import testbase.BaseClass;
 
 public class LoginTestHR extends BaseClass{
 	
-	 WebDriver driver;
-	 
 	 @Test
 	 public void loginApp()
 	 {
@@ -18,7 +15,13 @@ public class LoginTestHR extends BaseClass{
 		 LoginPage loginPage = PageFactory.initElements(driver, LoginPage.class);
 		 logger.info("Starting Application");
 		 loginPage.loginToHR(excel.getStringData("Login", 0, 0), excel.getStringData("Login", 0, 1));
-		 logger.pass("Login Success");
+		 if(loginPage.verifyLogin(excel.getStringData("Urls", 0, 1))){
+			 logger.pass("Login Success");	 
+			 loginPage.logoutFromHR();
+			 logger.pass("Logout Success");
+		 }
+		 else {
+			 logger.fail("Login Failed");
+		 }
 	 }
-
 }

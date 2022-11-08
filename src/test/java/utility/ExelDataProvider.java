@@ -10,7 +10,7 @@ public class ExelDataProvider {
 	public XSSFWorkbook wb;
 
 	public ExelDataProvider() {
-		File src = new File("./testdata/data.xlsx");
+		File src = new File("src/test/java/testdata/data.xlsx");
 		try {
 			FileInputStream fis = new FileInputStream(src);
 			wb = new XSSFWorkbook(fis);

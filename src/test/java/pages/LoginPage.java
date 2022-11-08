@@ -13,9 +13,10 @@ public class LoginPage {
 		driver = Idriver;
 		logger = Logger.getLogger("LoginPage");
 	}
-	@FindBy(id="username") WebElement uname;
+	@FindBy(name="username") WebElement uname;
 	@FindBy(name="pwd") WebElement pass;
 	@FindBy(id="loginButton") WebElement loginButton;
+	@FindBy(id="logoutLink") WebElement logoutButton;
 	
 	public void loginToHR(String usernameApp, String passwordApp)
 	{
@@ -33,5 +34,27 @@ public class LoginPage {
 		
 		logger.info("Click Login Button");
 		loginButton.click();
+	}
+	
+	public void logoutFromHR()
+	{
+		logger.info("Logout from Actitime HR");
+		try {
+			Thread.sleep(2000);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		logger.info("Click Logout Button");
+		logoutButton.click();
+	}
+	
+	public boolean verifyLogin(String expectedUrl) {
+		if(expectedUrl.equals(driver.getCurrentUrl())) {
+			return true;
+		}
+		else {
+			return false;
+		}
 	}
 }
