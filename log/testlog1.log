@@ -178,3 +178,14 @@
 2022-11-08 23:53:41,022 [main] INFO ReportsPage - Close Report
 2022-11-08 23:53:41,117 [main] INFO LoginPage - Logout from Actitime HR
 2022-11-08 23:53:43,118 [main] INFO LoginPage - Click Logout Button
+2022-11-08 23:56:41,212 [main] INFO LoginPage - Login to Actitime HR
+2022-11-08 23:56:43,217 [main] INFO LoginPage - Enter Username
+2022-11-08 23:56:43,265 [main] INFO LoginPage - Enter Pasword
+2022-11-08 23:56:43,320 [main] INFO LoginPage - Click Login Button
+2022-11-08 23:56:43,378 [main] INFO ReportsPage - Navigate To Reports
+2022-11-08 23:56:45,378 [main] INFO ReportsPage - Click Reports Button
+2022-11-08 23:56:55,847 [main] INFO ReportsPage - Verify Report View
+2022-11-08 23:56:56,021 [main] INFO ReportsPage - Open Report
+2022-11-08 23:57:01,266 [main] INFO ReportsPage - Close Report
+2022-11-08 23:57:01,328 [main] INFO LoginPage - Logout from Actitime HR
+2022-11-08 23:57:03,329 [main] INFO LoginPage - Click Logout Button
