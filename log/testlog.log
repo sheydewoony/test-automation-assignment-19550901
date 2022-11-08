@@ -28,3 +28,142 @@
 2022-11-08 21:15:50,523 - LoginPage -INFO - Click Login Button
 2022-11-08 21:15:50,577 - LoginPage -INFO - Logout from Actitime HR
 2022-11-08 21:15:52,578 - LoginPage -INFO - Click Logout Button
+2022-11-08 21:56:03,585 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 21:56:05,589 - LoginPage -INFO - Enter Username
+2022-11-08 21:57:09,601 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 21:57:11,606 - LoginPage -INFO - Enter Username
+2022-11-08 21:57:44,044 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 21:57:46,050 - LoginPage -INFO - Enter Username
+2022-11-08 21:58:06,606 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 21:58:08,610 - LoginPage -INFO - Enter Username
+2022-11-08 21:59:07,094 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 21:59:09,100 - LoginPage -INFO - Enter Username
+2022-11-08 22:01:19,931 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 22:01:21,934 - LoginPage -INFO - Enter Username
+2022-11-08 22:03:27,996 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 22:03:30,001 - LoginPage -INFO - Enter Username
+2022-11-08 22:03:30,044 - LoginPage -INFO - Enter Pasword
+2022-11-08 22:03:30,101 - LoginPage -INFO - Click Login Button
+2022-11-08 22:03:30,163 - UsersListPage -INFO - Navigate To User List
+2022-11-08 22:03:32,166 - UsersListPage -INFO - Click User List Button
+2022-11-08 22:03:37,922 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 22:03:39,925 - LoginPage -INFO - Click Logout Button
+2022-11-08 22:24:19,927 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 22:24:21,933 - LoginPage -INFO - Enter Username
+2022-11-08 22:24:21,984 - LoginPage -INFO - Enter Pasword
+2022-11-08 22:24:22,042 - LoginPage -INFO - Click Login Button
+2022-11-08 22:24:22,100 - UsersListPage -INFO - Navigate To User List
+2022-11-08 22:24:24,102 - UsersListPage -INFO - Click User List Button
+2022-11-08 22:24:29,866 - UsersListPage -INFO - Verify User List View
+2022-11-08 22:24:29,871 - UsersListPage -INFO - Navigate To Employee Profile
+2022-11-08 22:24:29,924 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 22:24:31,925 - LoginPage -INFO - Click Logout Button
+2022-11-08 22:29:40,037 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 22:29:42,042 - LoginPage -INFO - Enter Username
+2022-11-08 22:29:42,088 - LoginPage -INFO - Enter Pasword
+2022-11-08 22:29:42,142 - LoginPage -INFO - Click Login Button
+2022-11-08 22:29:42,203 - UsersListPage -INFO - Navigate To User List
+2022-11-08 22:29:44,206 - UsersListPage -INFO - Click User List Button
+2022-11-08 22:29:50,502 - UsersListPage -INFO - Verify User List View
+2022-11-08 22:29:50,509 - UsersListPage -INFO - Navigate To Employee Profile
+2022-11-08 22:29:54,559 - UsersListPage -INFO - Close Employee Profile
+2022-11-08 22:29:54,630 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 22:29:56,634 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:02:52,586 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:02:54,590 - LoginPage -INFO - Enter Username
+2022-11-08 23:02:54,649 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:02:54,709 - LoginPage -INFO - Click Login Button
+2022-11-08 23:02:54,783 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:02:56,784 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:03:56,736 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:03:58,740 - LoginPage -INFO - Enter Username
+2022-11-08 23:03:58,820 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:03:58,878 - LoginPage -INFO - Click Login Button
+2022-11-08 23:03:58,940 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:04:00,941 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:07:06,569 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:07:08,575 - LoginPage -INFO - Enter Username
+2022-11-08 23:07:08,639 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:07:08,695 - LoginPage -INFO - Click Login Button
+2022-11-08 23:07:08,756 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:07:10,757 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:08:53,223 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:08:55,229 - LoginPage -INFO - Enter Username
+2022-11-08 23:08:55,274 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:08:55,332 - LoginPage -INFO - Click Login Button
+2022-11-08 23:08:55,396 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:08:57,400 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:11:01,005 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:11:03,010 - LoginPage -INFO - Enter Username
+2022-11-08 23:11:03,056 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:11:03,116 - LoginPage -INFO - Click Login Button
+2022-11-08 23:11:03,178 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:11:05,180 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:11:41,253 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:11:43,259 - LoginPage -INFO - Enter Username
+2022-11-08 23:11:49,489 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:11:49,548 - LoginPage -INFO - Click Login Button
+2022-11-08 23:11:49,610 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:11:51,614 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:14:40,030 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:14:42,034 - LoginPage -INFO - Enter Username
+2022-11-08 23:14:42,079 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:14:42,145 - LoginPage -INFO - Click Login Button
+2022-11-08 23:14:42,208 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:14:44,209 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:16:52,228 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:16:54,232 - LoginPage -INFO - Enter Username
+2022-11-08 23:16:54,311 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:16:54,371 - LoginPage -INFO - Click Login Button
+2022-11-08 23:16:54,433 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:16:56,434 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:17:44,978 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:17:46,982 - LoginPage -INFO - Enter Username
+2022-11-08 23:17:47,033 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:17:47,092 - LoginPage -INFO - Click Login Button
+2022-11-08 23:19:19,923 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:19:21,928 - LoginPage -INFO - Enter Username
+2022-11-08 23:19:21,985 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:19:22,047 - LoginPage -INFO - Click Login Button
+2022-11-08 23:19:22,113 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:19:24,118 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:23:25,615 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:23:27,619 - LoginPage -INFO - Enter Username
+2022-11-08 23:23:27,677 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:23:27,733 - LoginPage -INFO - Click Login Button
+2022-11-08 23:23:27,792 - TimeSheetPage -INFO - Navigate To View Time Track
+2022-11-08 23:23:41,188 - TimeSheetPage -INFO - Verify Time Sheet View
+2022-11-08 23:23:41,194 - TimeSheetPage -INFO - Change Employee
+2022-11-08 23:23:41,264 - TimeSheetPage -INFO - Select Employee
+2022-11-08 23:24:11,285 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:24:13,288 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:25:20,353 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:25:22,359 - LoginPage -INFO - Enter Username
+2022-11-08 23:25:22,419 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:25:22,482 - LoginPage -INFO - Click Login Button
+2022-11-08 23:25:22,549 - TimeSheetPage -INFO - Navigate To View Time Track
+2022-11-08 23:25:39,132 - TimeSheetPage -INFO - Verify Time Sheet View
+2022-11-08 23:25:39,150 - TimeSheetPage -INFO - Change Employee
+2022-11-08 23:25:41,236 - TimeSheetPage -INFO - Select Employee
+2022-11-08 23:26:11,252 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:26:13,255 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:29:24,348 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:29:26,353 - LoginPage -INFO - Enter Username
+2022-11-08 23:29:26,416 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:29:26,478 - LoginPage -INFO - Click Login Button
+2022-11-08 23:29:26,543 - TimeSheetPage -INFO - Navigate To View Time Track
+2022-11-08 23:29:40,336 - TimeSheetPage -INFO - Verify Time Sheet View
+2022-11-08 23:29:40,342 - TimeSheetPage -INFO - Change Employee
+2022-11-08 23:29:42,405 - TimeSheetPage -INFO - Select Employee
+2022-11-08 23:29:50,362 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:29:52,363 - LoginPage -INFO - Click Logout Button
+2022-11-08 23:32:47,819 - LoginPage -INFO - Login to Actitime HR
+2022-11-08 23:32:49,824 - LoginPage -INFO - Enter Username
+2022-11-08 23:32:49,884 - LoginPage -INFO - Enter Pasword
+2022-11-08 23:32:49,940 - LoginPage -INFO - Click Login Button
+2022-11-08 23:33:03,854 - TimeSheetPage -INFO - Navigate To View Time Track
+2022-11-08 23:33:14,098 - TimeSheetPage -INFO - Verify Time Sheet View
+2022-11-08 23:33:14,108 - TimeSheetPage -INFO - Change Employee
+2022-11-08 23:33:16,167 - TimeSheetPage -INFO - Select Employee
+2022-11-08 23:33:22,811 - LoginPage -INFO - Logout from Actitime HR
+2022-11-08 23:33:24,812 - LoginPage -INFO - Click Logout Button

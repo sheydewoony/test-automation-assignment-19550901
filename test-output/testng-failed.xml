@@ -3,15 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.LoginTestHR">
+      <class name="testcases.TimeShetTestCase">
         <methods>
           <include name="setUpSuite"/>
           <include name="tearDown"/>
-          <include name="loginApp"/>
+          <include name="navigateToTimeSheets"/>
           <include name="tearDownMethod"/>
+          <include name="loginApp"/>
           <include name="setup"/>
+          <include name="logout"/>
         </methods>
-      </class> <!-- testcases.LoginTestHR -->
+      </class> <!-- testcases.TimeShetTestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
